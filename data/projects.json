@@ -1,0 +1,126 @@
+{
+  "projects": [
+    {
+      "id": "proj-1780413162418",
+      "name": "DOT & DASH HOTEL",
+      "location": "Belirsiz",
+      "year": "2026",
+      "category": "konsept",
+      "description": "Dot & Dash Hotel — pop art estetiğini mimari diline taşıyan bir butik otel konsepti.",
+      "images": [
+        "images/projects/proj-1780413121100-o9cdm.webp",
+        "images/projects/proj-1780413120974-qnm54.webp",
+        "images/projects/proj-1780413121002-nql55.webp",
+        "images/projects/proj-1780413121034-8er9m.webp",
+        "images/projects/proj-1780413121068-upxmx.webp",
+        "images/projects/proj-1780413121133-djfm0.webp"
+      ]
+    },
+    {
+      "id": "proj-1780561119690",
+      "name": "KONUT & İŞYERİ PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "dis-mekan",
+      "description": "Bu proje geniş cam cepheleri, ferah balkonları ve özenli peyzaj tasarımıyla huzurlu ve prestijli bir yaşam sunuyor.",
+      "images": [
+        "images/projects/proj-1780561103140-yklpk.webp",
+        "images/projects/proj-1780561103159-txtd3.webp",
+        "images/projects/proj-1780561103126-g6tvl.webp",
+        "images/projects/proj-1780561103128-6zqfi.webp",
+        "images/projects/proj-1780561103130-q9ppd.webp",
+        "images/projects/proj-1780561103133-64mf9.webp"
+      ]
+    },
+    {
+      "id": "proj-1780562488106",
+      "name": "İŞYERİ PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "ic-mekan",
+      "description": "Bordo damarlı mermer yüzeyler, bronz detaylar ve koyu tonlu silindirik kolonların oluşturduğu güçlü atmosfer; boucle koltuklar ve siyah mermer masalarla dengelenerek sofistike bir sıcaklık yaratıyor. Her detayda hissedilen bu özen, markanın prestijli duruşunu en yalın haliyle ifade ediyor.",
+      "images": [
+        "images/projects/proj-1780562438979-qo2ky.webp",
+        "images/projects/proj-1780562438991-4e7lb.webp",
+        "images/projects/proj-1780562439003-2i50o.webp",
+        "images/projects/proj-1780562439016-d09ps.webp",
+        "images/projects/proj-1780562439028-8nak6.webp",
+        "images/projects/proj-1780562439040-9zzsm.webp"
+      ]
+    },
+    {
+      "id": "proj-1780563130810",
+      "name": "İŞMERKEZİ PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "dis-mekan",
+      "description": "Merkezi cam-metal cephesi ve dikey profil detaylarıyla öne çıkan ofis bloğu; iki yanındaki konut kütleleriyle dengeli ve bütünlüklü bir yapı oluşturuyor. Gün içinde doğal ışığı içine çeken geniş cam yüzeyler, gece aydınlatmasıyla sokağa prestijli bir atmosfer katıyor. Çalışmak için tasarlanmış yapı, modern iş dünyasının ihtiyaçlarını karşılıyor.",
+      "images": [
+        "images/projects/proj-1780563116248-wz26t.webp",
+        "images/projects/proj-1780563116262-3t37k.webp",
+        "images/projects/proj-1780563116275-9uv4w.webp",
+        "images/projects/proj-1780563116288-iegbg.webp",
+        "images/projects/proj-1780563116302-6rau1.webp"
+      ]
+    },
+    {
+      "id": "proj-1780563653596",
+      "name": "İŞMERKEZİ PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "dis-mekan",
+      "description": "Bu proje, yeşilin ortasında yükselen butik ofis yapısıyla çalışma kültürüne yeni bir soluk getiriyor. Korten dokulu cephe kaplaması, siyah metal çerçeveler ve geniş cam yüzeyleriyle güçlü bir kimlik taşıyan bina, içinde bağımsız ofis birimlerine ev sahipliği yapıyor. Doğayla iç içe bu sakin ortamda her ofis, hem işlevselliği hem de prestiji bir arada sunuyor. Gün içinde bol ışık alan mekanlar, gece aydınlatmasıyla sokağa ayrı bir karakter katıyor.",
+      "images": [
+        "images/projects/proj-1780563640629-sueon.webp",
+        "images/projects/proj-1780563640614-ljjaa.webp",
+        "images/projects/proj-1780563640600-gzlhh.webp",
+        "images/projects/proj-1780563640644-xrc8y.webp"
+      ]
+    },
+    {
+      "id": "proj-1780565017450",
+      "name": "VİLLA PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "dis-mekan",
+      "description": "Klasik mimarinin zarafetiyle çağdaş yaşam konforunun buluştuğu bu villa projesi, tuğla cephesi, çok cepheli çatısı ve beyaz detaylarıyla köklü bir estetik anlayışını yansıtıyor. Geniş avlusu, doğal taş döşemesi ve özenle tasarlanmış peyzajıyla dışarıdan içeriye kusursuz bir geçiş sunuyor. Modern carport yapısı, organik formlu oturma terası ve sanatsal aydınlatma elemanlarıyla dış mekan, villanın ayrılmaz bir parçasına dönüşüyor. Yeşilin içinde, ışığın en güzel saatlerinde yaşamak için tasarlanmış bu proje; lüksü sadelikle, geçmişi günümüzle harmanlıyor.",
+      "images": [
+        "images/projects/proj-1780565006343-h8yew.webp",
+        "images/projects/proj-1780565006378-61trn.webp",
+        "images/projects/proj-1780565006361-uskih.webp"
+      ]
+    },
+    {
+      "id": "proj-1780565903285",
+      "name": "KAFE PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "dis-mekan",
+      "description": "Toprağın sıcak tonlarını, ahşabın doğallığını ve Akdeniz ruhunu tek bir atmosferde birleştiren bu kafe tasarımı; dalgalı ahşap tavan strüktürü, el yapımı hasır armatürleri ve çini kaplı duvarlarıyla özgün bir kimlik taşıyor. Gün batımının altın ışığında palmiyeler ve gölge oyunlarıyla hayat bulan geniş açık terası, misafirlere şehrin ortasında huzurlu bir kaçış sunuyor. \"Coffee is always a good idea.\" felsefesini mekânın her köşesine işleyen bu proje; kahveyi bir ritüele, oturma eylemini ise bir deneyime dönüştürüyor.",
+      "images": [
+        "images/projects/proj-1780565882840-njorf.webp",
+        "images/projects/proj-1780565882870-ccg2s.webp",
+        "images/projects/proj-1780565882887-6y6f8.webp",
+        "images/projects/proj-1780565882855-k1msk.webp",
+        "images/projects/proj-1780565882903-ckdr5.webp",
+        "images/projects/proj-1780565882918-bj829.webp"
+      ]
+    },
+    {
+      "id": "proj-1780566912093",
+      "name": "BEBEK SPA PROJESİ",
+      "location": "Denizli",
+      "year": "2026",
+      "category": "ic-mekan",
+      "description": "Bebekler için tasarlanmış bu özel spa merkezi, küçük misafirlerini saran yumuşak renk paleti, organik formlar ve titizlikle seçilmiş detaylarıyla tamamen onların dünyasına göre şekillenmiş. Oval niş oturma alanları, oyun köşeleri ve kişiselleştirilmiş bakım ürünleri rafları; her ziyareti hem bebekler hem de ebeveynler için huzurlu bir deneyime dönüştürüyor.",
+      "images": [
+        "images/projects/proj-1780566880533-kjy96.webp",
+        "images/projects/proj-1780566880580-6svnl.webp",
+        "images/projects/proj-1780566880556-78p7y.webp",
+        "images/projects/proj-1780566880508-rq8cc.webp",
+        "images/projects/proj-1780566880629-rsxc6.webp",
+        "images/projects/proj-1780566880604-ngpf7.webp"
+      ]
+    }
+  ]
+}
